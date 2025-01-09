@@ -7,3 +7,6 @@ __pycache__/
 *~
 ~*~
 #*#
+miniconda.sh
+miniconda/_conda
+miniconda/.nonadmin
